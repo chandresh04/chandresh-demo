@@ -1,4 +1,4 @@
 # chandresh-demo
 this is my first repo.
 <br>
-AUther- chandresh shettigar
+AUther- chandresh (shettigar)
